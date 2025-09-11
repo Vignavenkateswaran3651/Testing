@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is also checking purpose
+=======
+Checking git clone
+>>>>>>> 52f037ad484805a90252bd64ec049bf52bbf4fe5
